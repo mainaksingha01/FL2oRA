@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 ```
 
 ### Training and Evaluation
-Please run the following commands to `train` and `evaluate' the model:
+Please run the following commands to `train` and `evaluate` the model:
 
 #### To run the in-distribution setting on CIFAR10 and CIFAR100 datasets
 ```bash
