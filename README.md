@@ -1,4 +1,5 @@
 # Official Repository of How (Mis)calibrated is Your Federated CLIP and What To Do About It?
+> [Mainak Singha](https://mainaksingha01.github.io/), [Masih Aminbeidokhti](https://scholar.google.com/citations?hl=en&user=98UoctQAAAAJ), [Paolo Casari](https://scholar.google.com/citations?hl=en&user=CSaXahIAAAAJ), [Elisa Ricci](https://eliricci.eu/), [Subhankar Roy](https://scholar.google.com/citations?user=YfzgrDYAAAAJ&hl=en)
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/pdf/2512.04305)
 
