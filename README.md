@@ -3,7 +3,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/pdf/2512.04305)
 
-
+## Abstract
+While vision-language models like CLIP have been extensively studied, their calibration, crucial for reliable predictions, has received limited attention. Although a few prior works have examined CLIP calibration in offline settings, the impact of fine-tuning CLIP in a federated learning (FL) setup remains unexplored. In this work, we investigate how FL affects CLIP calibration and propose strategies to improve reliability in this distributed setting. We first analyze Textual Prompt Tuning approaches and show that they degrade calibration metrics when operating under FL. We also evaluate existing in-training calibration techniques across four global aggregation methods, finding that they provide limited improvements. Our results suggest that the key challenge lies not only in how we aggregate or calibrate, but in which components we choose to fine-tune. Motivated by this insight, we propose $$\text{FL}^2\text{oRA}$$, a straightforward LoRA-based approach that naturally improves calibration in FL, and we analyze the factors behind its effectiveness. Experiments on multiple benchmarks demonstrate that $$\text{FL}^2\text{oRA}$$ consistently produces well-calibrated models, reducing the need for explicit calibration procedures.
 
 ## How to install
 
